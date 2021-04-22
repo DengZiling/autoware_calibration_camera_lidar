@@ -1,0 +1,2 @@
+# autoware_calibration_camera_lidar
+从autoware1.10中分离出来的lidar-camera联合标定工具，可支持在ubuntu18.04下使用并整合到autoware1.14中
